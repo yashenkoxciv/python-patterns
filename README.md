@@ -14,3 +14,7 @@ python -m pytest tests
 
 1. Singleton as a module instance of a class (patterns/singleton_module.py)
 1. Singleton as a class method result (patterns/singleton_classmethod.py)
+
+## More information on the repository
+
+https://docs.google.com/document/d/1A_fXOziC6djpJJ6t12HQjm-fQ8L33GkLWSy76XnU9X4/edit?usp=sharing
